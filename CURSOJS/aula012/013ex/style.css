@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(0, 89, 255);
+    
+}
+
+h1{
+    color: aliceblue;
+    width: 400px;
+    margin: auto;
+    padding: 10px;
+    padding-left: 110px;
+    padding-bottom: 20px;
+    
+    
+}
+
+section{
+        background-color: rgb(255, 255, 255);
+        width: 500px;
+        padding-bottom: 20px;
+        border-radius: 10px;
+        padding: 20px;
+        margin: auto;
+}
+
+footer{
+    padding: 30px;
+    text-align: center;
+    color: aliceblue;
+    font-size: px;
+    
+}
+
